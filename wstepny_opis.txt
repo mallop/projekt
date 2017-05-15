@@ -1,0 +1,7 @@
+Celem projektu bêdzie utworzenie gry pamiêciowej, „memory”. 
+Na ekranie pojawiaj¹ siê „karty”, przy czym po dwie s¹ tego samego typu.
+Zadaniem u¿ytkownika jest znalezienie  dwóch takich samych kart.
+Gra jest podzielona na poziomy trudnoœci, w ka¿dym kolejnym jest wiêcej kart do uporz¹dkowania. Przejœcie do nastêpnego poziomu jest mo¿liwe po wskazaniu wszystkich par.
+W ka¿dym poziomie przydzielane s¹ punkty. Ich iloœæ zale¿y od iloœci ruchów wykonanych przez u¿ytkownika do uporz¹dkowania kart.
+Po przejœciu wszystkich poziomów, czyli po ca³kowitym skoñczeniu gry, wyœwietlana  jest ³¹czna liczba zdobytych punktów przez u¿ytkownika.
+Technologia wykonania: WPF.
